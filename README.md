@@ -1,8 +1,8 @@
-# Project Name
+# Brick Breaker Enhanced
 
-Context and date
+Project 3 - Juicy Brick Breaker
 
-Description
+Use design features to enhance the basic gameplay of a game to seem visualy interesting
 
 
 ## Implementation
@@ -14,6 +14,7 @@ Which features you included
 
 
 ## Future Development
-
+-
 
 ## Created by
+Seth Bolden
